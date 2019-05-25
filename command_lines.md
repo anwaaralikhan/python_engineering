@@ -38,7 +38,7 @@ Python Version specific installation
 
 > pip3 show requests
 
-> pip install flask (System/PATH variable system wide installation)
+> pip install flask (System/PATH variable system wide installation) / System Package Manager Installation
 
 > python2 -m pip install flask (version specific installation)
 
