@@ -23,3 +23,11 @@ Install multiple packages
 
 Help 
 > pip help
+
+Where packages are installed
+
+> >> import sys
+> >> sys.path
+
+or
+> pip show requests
