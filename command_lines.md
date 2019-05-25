@@ -27,6 +27,7 @@ Help
 Where packages are installed
 
 > >> import sys
+
 > >> sys.path
 
 or
