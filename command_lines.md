@@ -32,3 +32,7 @@ Where packages are installed
 
 or
 > pip show requests
+
+
+Python Version specific installation
+> pip3 show requests
