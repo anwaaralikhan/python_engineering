@@ -29,5 +29,12 @@
             *  Setup Python 3 Specific enviornment
                   *  virtualenv -p python3 new_project_version3
                   *  new_project_version3 will be created
-               
+   *  Activate Environment
+      *  virtualenvs
+         *  projects under it
+            *  new_project
+            *  new_project_version3
+         *  new_project_version3/Scripts/activate.bat (Windows)
+         *  . new_project_version3/bin/activate.bat (Linux)
+         * deactivate ( Deactivate Environment)
    
